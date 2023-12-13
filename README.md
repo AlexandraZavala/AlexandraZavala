@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Alexandra Zavala</h1>
 <h3 align="center">Apasionada en desarrollo web y desarrollo de aplicaciones</h3>
 
-- 🔭 Un proyecto en el actualmente estoy trabajando **Astreia School**
 
 - 💬 Ask me about **C, C++, C#, Java, Python, JavaScript, HTML, CSS, React**
 
